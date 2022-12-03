@@ -13,5 +13,6 @@ int main() {
   // 1+1 event <- 2
   int cost = n_items / 2 * price_per_item;
 
+  // git..
   return 0;
 }
